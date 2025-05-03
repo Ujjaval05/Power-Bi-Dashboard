@@ -23,14 +23,5 @@ This repository contains Power BI dashboards developed to analyze and visualize 
 | `HR Analytics_Dashboard.pbix`     | HR-related insights dashboard    |
 | `Supply Chian Analytics.pbix`     | (Typo: Should be "Chain") Supply chain performance dashboard |
 
----
 
-## ⚠️ Note
-- Dashboards are built using **sample/mock data** for learning and demonstration purposes.
-- No sensitive or confidential data is included.
-
----
-
-## 🛠️ How to Open
-- Open any `.pbix` file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
