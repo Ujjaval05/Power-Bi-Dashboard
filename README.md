@@ -11,7 +11,7 @@ This repository contains Power BI dashboards developed to analyze and visualize 
 - **Purpose**: Helps HR teams identify trends and make data-driven decisions regarding retention and workforce planning.
 
 ### 🔹 Supply Chain Analytics
-- **Focus**: Inventory flow, order fulfillment, and supplier performance.
+- **Focus**: Inventory flow, order fulfillment, and supplier performance and product wise analysis.
 - **Purpose**: Aims to improve supply chain efficiency and highlight bottlenecks in the logistics process.
 
 ---
@@ -21,7 +21,7 @@ This repository contains Power BI dashboards developed to analyze and visualize 
 | File Name                   | Description                  |
 |----------------------------|------------------------------|
 | `HR Analytics_Dashboard.pbix`     | HR-related insights dashboard    |
-| `Supply Chian Analytics.pbix`     | (Typo: Should be "Chain") Supply chain performance dashboard |
+| `Supply Chian Analytics.pbix`     | Supply chain performance dashboard |
 
 
 
